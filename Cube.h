@@ -4,7 +4,7 @@
 
 void drawCube(){
 	float color[3] = {1,1,0};
-	float size = 1.5;	
+	float size = 1;	
 	float pos[3] = {1,1,0};	
 
 	glPushMatrix();
